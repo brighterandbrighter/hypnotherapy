@@ -128,7 +128,7 @@ img { max-width: 100%; }
 footer {
 	margin-top: 60px;
 	padding: 20px 0 15px 0;
-	background: #3d3d3d;
+	background: #C8724F;
 	background: rgba(61, 61, 61, 0.3);
 }
 
@@ -136,12 +136,12 @@ footer {
 	margin: 0;
 	font-size: 8px;
     line-height: 32px;
-    color: #fff;
+    color: #683c02;
     text-align: left;
 }
 
-.footer-copyright a { color: #fff; border-bottom: 1px dotted #fff; }
-.footer-copyright a:hover { color: #fff; border: 0; }
+.footer-copyright a { color: #683c02; border-bottom: 1px dotted #fff; }
+.footer-copyright a:hover { color: #683c02; border: 0; }
 
 .footer-social {
 	text-align: right;
